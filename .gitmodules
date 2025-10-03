@@ -4,7 +4,7 @@
 	branch = master
 [submodule "tensorflow"]
 	path = tensorflow
-	url = https://github.com/HyperHamster/tensorflow
+	url = https://github.com/ratbot-rs/tensorflow
 [submodule "kenlm"]
 	path = kenlm
 	url = https://github.com/kpu/kenlm
